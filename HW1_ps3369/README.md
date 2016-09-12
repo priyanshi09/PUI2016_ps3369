@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 PUI 2016  Homework1 -by Priyanshi Singh
 ASSIGNMENT1:  For assignment i took help from vishwajeet shelkar and worked together.He helped me in solving merge conflict.
 steps:
@@ -48,5 +47,11 @@ again in vi .bashrc, set the alias for environment variable, so that using the k
 hence using pui2016 on console took directly in the directory.
     
 ![Screenshot 2 my console](console.png)    
-        
 
+Assignment3:i took help from Aaron to understand the concept of mean and deviatin. Then I used google to understand the syntax of color iteration and gone through the links as well to understand the gaussian distribution.
+
+HELPED:
+1) I helped Pooneh to understand the commands in github and with README file.
+
+2) I helped  Akshay to understand the concept for environment variable and .bashrc files essence.
+      
