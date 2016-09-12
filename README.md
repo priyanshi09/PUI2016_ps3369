@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 PUI 2016  Homework1 -by Priyanshi Singh
 ASSIGNMENT1:  For assignment i took help from vishwajeet shelkar and worked together.He helped me in solving merge conflict.
 steps:
@@ -48,3 +49,7 @@ hence using pui2016 on console took directly in the directory.
     
 ![Screenshot 2 my console](console.png)    
         
+=======
+# PUI2016_ps3369
+this is the homework1 assignment 2 
+>>>>>>> b4c12acebdbf7983731746db33a0bf6fd722fee5
