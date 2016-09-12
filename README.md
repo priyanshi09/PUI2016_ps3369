@@ -1,6 +1,7 @@
 PUI 2016  Homework1 -by Priyanshi Singh
 ASSIGNMENT1:  For assignment i took help from vishwajeet shelkar and worked together.He helped me in solving merge conflict.
 steps:
+
 1) I made a directory in my compute gittest and created a file myfirstfile.txt
 
 2) Then i added this file to cloud by providing the address of the repository on cloud which i created online on github.
