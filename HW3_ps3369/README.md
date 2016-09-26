@@ -6,11 +6,29 @@ Achilles helped me in extra credit part and to understand binomial distribution.
 ## Assignment 2:
 worked in group and every member contributed in the assignment2.
 Group members:
+
+
+
     - Anastasia Shegay
+    
+    
+    
     - Vishwajeet Shelar
+    
+    
+    
     - Akshay Penmatcha
+    
+    
+    
     - Aaron D'Souza
+    
+    
+    
     - Priyanshi Singh (ps3369)
+    
+    
+    
     - Achilles E A Saxby 
 
 ## Assignment 3:
