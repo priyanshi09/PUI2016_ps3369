@@ -53,7 +53,6 @@ LOGISTIC REGRESSION	| 2, the absence or presence of colony fissioning is conside
 
 2)Related the p value with the significance level rejected the null hypothesis.
 
-3) referred a friend's(Ian's) code to do the extra credit.
 
 
 #### I helped Vishwajeet Shelar with interpretations( giving small suggestions) of the tests in assignment 4.
