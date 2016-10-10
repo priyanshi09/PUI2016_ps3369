@@ -1,11 +1,11 @@
-## Assignment1
+# Assignment1
 
 In this assignment, I plotted the histogram for the age distribution. I learned various concepts from google(stackoverflow), like fitting data to Un-Normalised Gaussian distribution and plotting with histograms. Read about the one sample KS Test and Anderson-Darling Test, understood the interpretation of results.
 
 For the other Distributions i took help from Vishwajeet, as i faced a problem while fitting data with some other distribution.
 
 
-## Assignment2
+# Assignment2
 
 I did the assignment by myself.
 
@@ -23,28 +23,24 @@ I did the assignment by myself.
 
 7) Lastly I analysed the total median incomes of all the races.
 
-## Assignment 3: Practice formulating the null hypothesis:
+# Assignment 3: Practice formulating the null hypothesis:
 
 I worked individually on this and then discussed it with the group( Aaron, Vishwajeet, Achilles, Anastasia).
 
-1)  - Do diets help lose more fat than the exercise?
+### 1)  - Do diets help lose more fat than the exercise?
 
 Significance Level - 0.05 or 5%
 
-Null Hypothesis: The mean weight lost of the population(test sample) that was exercising is greater than or equal to the mean weight
-
-lost of the population(control sample) that was dieting.
+#### Null Hypothesis: The mean weight lost of the population(test sample) that was exercising is greater than or equal to the mean weight lost of the population(control sample) that was dieting.
 
 $H_0$ => $Mean_W(exercise) >= Mean_W(diet)$\n"
 
-Alternate Hypothesis:  The mean weight lost of the population(test sample) that was exercising is less than or equal to the mean weight 
+#### Alternate Hypothesis:  The mean weight lost of the population(test sample) that was exercising is less than or equal to the mean weight lost of the population(control sample) that was dieting.
 
-lost of the population(control sample) that was dieting.
-
-$H_0$ => $Mean_W(exercise) < Mean_W(diet)$\n"
+"$H_0$ => $Mean_W(exercise) < Mean_W(diet)$\n"
 
 
-2) - Do American trust the president?
+### 2) - Do American trust the president?
 
 POLL RESULTS: On May 16, 1994, Newsweek reported the results of a public opinion poll that asked: “From everything you know about Bill
 
@@ -54,51 +50,40 @@ answered yes.
 
 Significance Level - 0.05 or 5%
 
-Null Hypothesis: The percentage of the American population that trusts the president is greater than or equal to the percentage of the
+#### Null Hypothesis: The percentage of the American population that trusts the president is greater than or equal to the percentage of the American population that does not trust the president
 
-American population that does not trust the president
+"$H_0$ => $Percentage(Trust) >= Percentage(Doesn'tTrust)$"
 
-$H_0$ => $Percentage(Trust) >= Percentage(Doesn'tTrust)$
+#### Alternate Hypothesis: The percentage of the American population that trusts the president is lesser than the percentage of the American population that does not trust the president
 
-Alternate Hypothesis: The percentage of the American population that trusts the president is lesser than the percentage of the American 
-population that does not trust the president
-
-$H_0$ => $Percentage(Trust) < Percentage(Doesn'tTrust)$
+"$H_0$ => $Percentage(Trust) < Percentage(Doesn'tTrust)$"
 
 
-3) - Effectiveness of nicotine patches to quit smoking. 
+### 3) - Effectiveness of nicotine patches to quit smoking. 
 
 Experimental setup: measure cessation rates for smokers randomly assigned to use a nicotine patch versus a placebo patch.
 
 Significance Level - 0.05 or 5%
 
-Null Hypothesis:  The Cessation rate for smokers using nicotine patch is less than or equal to the Cessation rate for smokers using 
+#### Null Hypothesis:  The Cessation rate for smokers using nicotine patch is less than or equal to the Cessation rate for smokers using the placebo patch.
 
-the placebo patch.
+"$H_0$ => $Cessation Rate(Nicotine) <= Cessation Rate(Placebo)$"
 
-$H_0$ => $Cessation Rate(Nicotine) <= Cessation Rate(Placebo)$
+#### Alternate Hypothesis: The Cessation rate for smokers using nicotine patch is greater than the Cessation rate for smokers using the placebo patch.
 
-Alternate Hypothesis: The Cessation rate for smokers using nicotine patch is greater than the Cessation rate for smokers using 
-
-the placebo patch.
-
-$H_0$ => $Cessation Rate(Nicotine) > Cessation Rate(Placebo)$
+"$H_0$ => $Cessation Rate(Nicotine) > Cessation Rate(Placebo)$"
 
 
-4) - Quantify the danger of smoking for pregnant women. 
+### 4) - Quantify the danger of smoking for pregnant women. 
 
 Experimemtal setup: measure IQ of children at ages 1, 2, 3, and 4 years of age.
 
 Significance Level - 0.05 or 5%
 
-Null Hypothesis: The mean IQ of children at ages 1,2,3 and 4 whose mother smoked during pregnancy is greater than the mean IQ of 
+#### Null Hypothesis: The mean IQ of children at ages 1,2,3 and 4 whose mother smoked during pregnancy is greater than the mean IQ of children at ages 1,2,3 and 4 whose mother did not smoke during pregnancy.
 
-children at ages 1,2,3 and 4 whose mother did not smoke during pregnancy.
+"$H_0$ => $Mean(IQ at ages 1,2,3 and 4)_smoked > Mean(IQ at ages 1,2,3 and 4)_notSmoked$"
 
-$H_0$ => $Mean(IQ at ages 1,2,3 and 4)_smoked > Mean(IQ at ages 1,2,3 and 4)_notSmoked$
+#### Alternate Hypothesis: The mean IQ of children at ages 1,2,3 and 4 whose mother smoked during pregnancy is greater than the mean IQ of children at ages 1,2,3 and 4 whose mother did not smoke during pregnancy.
 
-Alternate Hypothesis: The mean IQ of children at ages 1,2,3 and 4 whose mother smoked during pregnancy is greater than the mean IQ of 
-
-children at ages 1,2,3 and 4 whose mother did not smoke during pregnancy.
-
-$H_0$ => $Mean(IQ at ages 1,2,3 and 4)_smoked <= Mean(IQ at ages 1,2,3 and 4)_notSmoked$
+"$H_0$ => $Mean(IQ at ages 1,2,3 and 4)_smoked <= Mean(IQ at ages 1,2,3 and 4)_notSmoked$"
