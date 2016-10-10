@@ -33,11 +33,11 @@ Significance Level - 0.05 or 5%
 
 #### Null Hypothesis: The mean weight lost of the population(test sample) that was exercising is greater than or equal to the mean weight lost of the population(control sample) that was dieting.
 
-H0 => Mean_W(exercise) >= Mean_W(diet)
+H0:  Mean_W(exercise) >= Mean_W(diet)
 
 #### Alternate Hypothesis:  The mean weight lost of the population(test sample) that was exercising is less than or equal to the mean weight lost of the population(control sample) that was dieting.
 
-H1 => Mean_W(exercise) < Mean_W(diet)
+H1: Mean_W(exercise) < Mean_W(diet)
 
 
 ### 2) - Do American trust the president?
@@ -48,11 +48,11 @@ Significance Level - 0.05 or 5%
 
 #### Null Hypothesis: The percentage of the American population that trusts the president is greater than or equal to the percentage of the American population that does not trust the president
 
-H0 => Percentage(Trust) >= Percentage(Doesn'tTrust)
+H0:  Percentage(Trust) >= Percentage(Doesn'tTrust)
 
 #### Alternate Hypothesis: The percentage of the American population that trusts the president is lesser than the percentage of the American population that does not trust the president
 
-H1 => Percentage(Trust) < Percentage(Doesn'tTrust)
+H1:  Percentage(Trust) < Percentage(Doesn'tTrust)
 
 
 ### 3) - Effectiveness of nicotine patches to quit smoking. 
@@ -63,11 +63,11 @@ Significance Level - 0.05 or 5%
 
 #### Null Hypothesis:  The Cessation rate for smokers using nicotine patch is less than or equal to the Cessation rate for smokers using the placebo patch.
 
-H0 => Cessation Rate(Nicotine) <= Cessation Rate(Placebo)
+H0:   Cessation Rate(Nicotine) <= Cessation Rate(Placebo)
 
 #### Alternate Hypothesis: The Cessation rate for smokers using nicotine patch is greater than the Cessation rate for smokers using the placebo patch.
 
-H1 => Cessation Rate(Nicotine) > Cessation Rate(Placebo)
+H1:  Cessation Rate(Nicotine) > Cessation Rate(Placebo)
 
 
 ### 4) - Quantify the danger of smoking for pregnant women. 
@@ -78,8 +78,8 @@ Significance Level - 0.05 or 5%
 
 #### Null Hypothesis: The mean IQ of children at ages 1,2,3 and 4 whose mother smoked during pregnancy is greater than the mean IQ of children at ages 1,2,3 and 4 whose mother did not smoke during pregnancy.
 
-H0 => Mean(IQ at ages 1,2,3 and 4)Smoked > Mean(IQ at ages 1,2,3 and 4)NotSmoked
+H0:  Mean(IQ at ages 1,2,3 and 4)Smoked > Mean(IQ at ages 1,2,3 and 4)NotSmoked
 
 #### Alternate Hypothesis: The mean IQ of children at ages 1,2,3 and 4 whose mother smoked during pregnancy is greater than the mean IQ of children at ages 1,2,3 and 4 whose mother did not smoke during pregnancy.
 
-H1 => Mean(IQ at ages 1,2,3 and 4)smoked <= Mean(IQ at ages 1,2,3 and 4)NotSmoked
+H1:  Mean(IQ at ages 1,2,3 and 4)smoked <= Mean(IQ at ages 1,2,3 and 4)NotSmoked
