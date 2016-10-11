@@ -23,6 +23,8 @@ I did the assignment by myself.
 
 7) Lastly I analysed the total median incomes of all the races.
 
+For Assignment 2, I helped Akshay with some minor suggestions in curve fitting and using regression.
+
 # Assignment 3: Practice formulating the null hypothesis:
 
 I worked individually on this and then discussed it with the group( Aaron, Vishwajeet, Achilles, Anastasia).
