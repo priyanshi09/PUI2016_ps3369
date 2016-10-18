@@ -7,6 +7,8 @@ I followed the further steps from scheleton notebook of the instructor.
 
 I compared the likelihood ratio and was able to conclude the result about the best fit model i.e polynomial fit. 
 
+for Extra credit i took help from  Yao's code and understood the concept.
+
 
 
 
