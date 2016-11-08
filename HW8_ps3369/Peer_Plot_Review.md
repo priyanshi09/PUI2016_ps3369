@@ -1,4 +1,4 @@
-# Peer Review for cor215  - hw7 plot
+# Peer Review for priyanshi09  - hw7 plot
 Reviewed by: Christian Rosado (cor215) <br/>
 
 Plot Author:  priyanshi09 <br/>
