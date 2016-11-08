@@ -2,8 +2,7 @@
 Reviewed by: Christian Rosado (cor215) <br/>
 
 Plot Author:  priyanshi09 <br/>
-Github Repository: <br/>
-priyanshi09
+Github Repository: priyanshi09 <br/>
 
 ### plot 
 ![Plot](plot.png)
