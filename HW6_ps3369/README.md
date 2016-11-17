@@ -30,3 +30,8 @@ for Extra credit i took help from  Yao's code and understood the concept.
   
 #### Aaron D' Souza completed the code for the Assignment_2_Solutions with the help of the group.
 #### Achilles Saxby completed the Authorea paper publishing with extensive help from the group including editing and finalizi
+
+
+# FBB feedback
+good work on the analysis in place and tests appropriately chosen and performed.
+please look at the comments on the Authorea article though. Mostly the issues are issues with the linguistics organization, and wording. I recommand you read a few articles, say 1/week, from science journals like PLOSOne to understand scientific writing a bit better.
